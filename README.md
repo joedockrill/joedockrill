@@ -1,4 +1,4 @@
-![Header image](web-header-wide.png)
+![Header image](https://github.com/joedockrill/joedockrill/raw/master/web-header-wide.png)
 # Hello!
 
 I'm Joe. I'm 45 and I'm a nerd. I've been a professional software developer, a nightclub DJ, a chef, and run a couple of businesses with my very lovely wife.  
