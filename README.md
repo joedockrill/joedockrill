@@ -3,7 +3,7 @@
 
 I'm Joe. I'm 45 and I'm a nerd. I've been a professional software developer, a nightclub DJ, a chef, and I've run a couple of businesses with my very lovely wife.  
 
-I've been coding for over 30 years (C++,VB,Asp,.NET,C#,HTML,Oracle,Sql Server,Python). I'm currently learning data science, machine learning, deep learning etc and I'm currently focussed on [fast.ai](http://fast.ai). This is what I want to do until I retire. 
+I've been coding for over 30 years (C++,VB,Asp,.NET,C#,HTML,Oracle,Sql Server,Python). I'm currently learning data science, machine learning, deep learning etc and right now I'm focussed on [fast.ai](http://fast.ai). This is what I want to do until I retire. 
 
 I am not actively applying for positions at the moment, as I'm concentrating my time on finishing the fast.ai course but I'm open to conversation. If you wish to discuss a job in the London/Surrey area (or a remote working job), I'd be happy to hear from you. 
 
