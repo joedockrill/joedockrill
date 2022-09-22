@@ -1,7 +1,7 @@
 ![Header image](https://github.com/joedockrill/joedockrill/raw/master/web-header-wide.png)
 # Hello!
 
-I'm Joe. I'm 45 and I'm a nerd. I've been a professional software developer, a nightclub DJ, a chef, and I've run a couple of businesses with my very lovely wife.  
+I'm Joe. I'm 47 and I'm a nerd. I've been a professional software developer, a nightclub DJ, a chef, and run a couple of businesses.  
 
 I've been coding for over 30 years (C++,VB,Asp,.NET,C#,HTML,Oracle,Sql Server,Python). I'm currently learning data science, machine learning, deep learning etc and right now I'm focussed on [fast.ai](http://fast.ai). This is what I want to do until I retire. 
 
